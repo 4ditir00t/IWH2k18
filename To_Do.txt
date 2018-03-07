@@ -1,0 +1,25 @@
+Basic web bit:
+
+regd. pages - index, about, home, activity, story, settings
+
+activity and story would be template - retrieve from database
+
+settings would have a form that retrieves from the database and shows the details...
+if they want to edit they could... but only the parent can access it.
+As in the student can only send a mail to the parent to create changes and via link they can open?
+
+index is the first page
+
+home is the page after login, it will have the navigation to the activity and story
+
+about is regd. project and us
+
+Database bit:
+
+reqd. 3
+
+1 - login
+2 - user details & progress
+3 - activities & story details
+
+Honestly, the settings is messed up. if you have a better idea go ahead
